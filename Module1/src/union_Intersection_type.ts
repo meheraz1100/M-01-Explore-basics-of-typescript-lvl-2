@@ -34,6 +34,8 @@ type BackendDeveloper = {
     designation2: 'Backtend Developer'
 }
 
+// Intersection
+
 type FullStackDeveloper = FrontendDeveloper & BackendDeveloper
 
 const fullstackDeveloper : FullStackDeveloper = {
