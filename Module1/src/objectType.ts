@@ -1,4 +1,4 @@
-// Refference type --> Object
+{// Refference type --> Object
 
 
 const user : {
@@ -14,3 +14,4 @@ const user : {
     isMarried : true
 }
 
+}
